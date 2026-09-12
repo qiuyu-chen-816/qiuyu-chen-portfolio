@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8f4ff"/>
+      <stop offset="1" stop-color="#ded0f2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g transform="translate(600 460)" fill="none" stroke="#8a6fbe" stroke-linecap="round">
+    <path d="M-240 120 C-160 -20 -60 -30 0 0" stroke-width="8"/>
+    <path d="M-180 170 C-100 30 0 20 60 50" stroke-width="8"/>
+    <path d="M-110 220 C-50 90 60 80 120 110" stroke-width="8"/>
+    <path d="M-40 270 C20 150 130 140 190 170" stroke-width="8"/>
+  </g>
+  <g fill="#f6b6cf">
+    <circle cx="600" cy="470" r="58"/>
+    <circle cx="740" cy="280" r="24"/>
+    <circle cx="320" cy="600" r="34"/>
+  </g>
+  <text x="84" y="138" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#5f4a86">04</text>
+  <text x="84" y="760" font-family="Georgia, 'Noto Serif SC', serif" font-size="76" fill="#41306b">无声告白</text>
+  <text x="90" y="808" font-family="Arial, sans-serif" font-size="15" letter-spacing="4" fill="#6b568e">BRAND VOICE</text>
+</svg>

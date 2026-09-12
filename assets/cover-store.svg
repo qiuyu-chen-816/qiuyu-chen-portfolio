@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff8ee"/>
+      <stop offset="1" stop-color="#f4c9a7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="210" y="190" width="360" height="360" rx="20" fill="#fff3e4" stroke="#d67b59" stroke-width="5"/>
+  <circle cx="390" cy="370" r="118" fill="#e88b67"/>
+  <rect x="560" y="210" width="250" height="250" rx="18" fill="#f7d8a6" stroke="#d67b59" stroke-width="5"/>
+  <path d="M560 360 L685 300 L810 360" fill="#f2b8a0" stroke="#d67b59" stroke-width="5"/>
+  <rect x="180" y="570" width="330" height="130" rx="12" fill="#fff6e6" stroke="#d67b59" stroke-width="4"/>
+  <rect x="540" y="580" width="430" height="100" rx="12" fill="#f7c9a8" stroke="#d67b59" stroke-width="4"/>
+  <text x="84" y="138" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#7a3c2a">05</text>
+  <text x="84" y="760" font-family="Georgia, 'Noto Serif SC', serif" font-size="76" fill="#5f2d1e">星期天商店</text>
+  <text x="90" y="808" font-family="Arial, sans-serif" font-size="15" letter-spacing="4" fill="#8a4c37">DESIGN / ART DIRECTION</text>
+</svg>

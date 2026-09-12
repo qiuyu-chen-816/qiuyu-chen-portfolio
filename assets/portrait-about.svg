@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff4f7"/>
+      <stop offset="1" stop-color="#f7c6d3"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f5d7c6"/>
+      <stop offset="1" stop-color="#eab99d"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5f3045"/>
+      <stop offset="1" stop-color="#8a4d5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="450" cy="390" r="330" fill="#ffffff" opacity="0.35"/>
+  <path d="M220 260 C220 120 300 70 450 70 C600 70 690 130 690 270 C690 390 660 430 450 430 C250 430 220 380 220 260 Z" fill="url(#hair)"/>
+  <ellipse cx="450" cy="330" rx="160" ry="196" fill="url(#skin)"/>
+  <path d="M238 330 C300 250 600 250 664 332 C600 500 300 500 238 330 Z" fill="url(#hair)"/>
+  <circle cx="375" cy="305" r="13" fill="#5f3045"/>
+  <circle cx="525" cy="305" r="13" fill="#5f3045"/>
+  <path d="M405 400 Q450 430 495 400" fill="none" stroke="#c7796e" stroke-width="9" stroke-linecap="round"/>
+  <path d="M450 430 C450 470 430 500 390 520" fill="none" stroke="#5f3045" stroke-width="22" stroke-linecap="round"/>
+  <path d="M450 430 C450 470 470 500 510 520" fill="none" stroke="#5f3045" stroke-width="22" stroke-linecap="round"/>
+  <path d="M210 700 C250 620 320 600 380 610 L360 860 L200 900 Z" fill="#f6b6cf"/>
+  <path d="M690 700 C650 620 580 600 520 610 L540 860 L700 900 Z" fill="#f6b6cf"/>
+  <rect x="200" y="780" width="500" height="220" rx="24" fill="#ffffff" opacity="0.75"/>
+  <text x="450" y="880" text-anchor="middle" font-family="Georgia, 'Noto Serif SC', serif" font-size="46" fill="#5f3045">你的名字</text>
+  <text x="450" y="930" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" letter-spacing="4" fill="#8a4d5f">AD / CREATIVE</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#301f37"/>
+      <stop offset="0.5" stop-color="#7a4a63"/>
+      <stop offset="1" stop-color="#f2a7b9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffd3dd" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffd3dd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="800" cy="470" r="330" fill="url(#glow)"/>
+  <g stroke="#ffd9e1" stroke-width="3" opacity="0.55" fill="none">
+    <path d="M0 760 C300 690 520 850 800 780 C1080 710 1280 860 1600 780"/>
+    <path d="M0 820 C340 760 560 910 800 850 C1100 790 1320 930 1600 850"/>
+  </g>
+  <circle cx="800" cy="470" r="118" fill="#fff5f6" opacity="0.96"/>
+  <path d="M755 405 L875 470 L755 535 Z" fill="#7a4a63"/>
+  <text x="80" y="86" font-family="Arial, sans-serif" font-size="18" letter-spacing="4" fill="#ffe0e6">SHOWREEL</text>
+  <text x="80" y="830" font-family="Georgia, 'Noto Serif SC', serif" font-size="72" fill="#fff5f6">影像选集 2026</text>
+  <text x="86" y="886" font-family="Arial, sans-serif" font-size="16" letter-spacing="5" fill="#f2a7b9">90S DIRECTOR'S CUT</text>
+</svg>
